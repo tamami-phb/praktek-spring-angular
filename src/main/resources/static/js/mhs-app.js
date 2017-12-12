@@ -1,0 +1,1 @@
+var mhsApp = angular.module('MhsApp', []);
